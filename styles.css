@@ -1,0 +1,13 @@
+body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header,
+.footer {
+  color: white;
+  background-color: #1F2937;
+}
