@@ -24,6 +24,11 @@ body {
   font-weight: 900;
 }
 
+.airplane {
+  width: 400px;
+  height: 250px;
+}
+
 button {
   cursor: pointer;
   padding: 6px 26px;
