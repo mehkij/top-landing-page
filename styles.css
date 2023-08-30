@@ -39,6 +39,10 @@ body {
   height: 125px;
 }
 
+.middle-row {
+  background-color: #E5E7EB;
+}
+
 button {
   cursor: pointer;
   padding: 6px 26px;
