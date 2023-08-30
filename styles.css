@@ -25,8 +25,18 @@ body {
 }
 
 .airplane {
-  width: 400px;
+  width: 450px;
   height: 250px;
+}
+
+.italy,
+.ship,
+.car,
+.city {
+  border-radius: 8px;
+  border: 3px solid #3882F6;
+  width: 125px;
+  height: 125px;
 }
 
 button {
@@ -37,7 +47,7 @@ button {
 
 button.blue-button {
   background: #3882F6;
-  border: 1px #3882F6;
+  border: 1px solid #3882F6;
   color: white;
 }
 
