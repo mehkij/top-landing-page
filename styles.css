@@ -49,6 +49,13 @@ body {
   color: white;
 }
 
+.footer {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 button {
   cursor: pointer;
   padding: 6px 26px;
