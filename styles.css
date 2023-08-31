@@ -22,6 +22,11 @@ body {
   font-weight: 900;
 }
 
+.hero {
+  display: flex;
+  background-color: #1F2937;
+}
+
 .main-text {
   color: #F9FAF8;
   font-size: 48px;
@@ -105,6 +110,7 @@ button.transparent {
 }
 
 ul {
+  display: flex;
   list-style-type: none;
   padding: 0;
   margin: 0;
